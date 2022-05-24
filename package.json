@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/googlemaps": "^3.39.13"
+  },
+  "dependencies": {
+    "@agm/core": "^3.0.0-beta.0"
+  }
+}
