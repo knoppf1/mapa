@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mapa';
-  texto : string = 'Wenceslau Braz - Cuidado com as cargas';
-  lat: number = -23.8779431;
-  lng: number = -49.8046873;
+  texto : string = 'Casa Fabiano';
+  lat: number = -26.72730;
+  lng: number = -48.68530;
   zoom: number = 15;
 }
