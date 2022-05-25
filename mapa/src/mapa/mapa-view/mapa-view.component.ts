@@ -8,6 +8,9 @@ import { AppService } from 'src/app/app.service';
 })
 export class MapaViewComponent implements OnInit {
 
+  // Ajuste pagina inicial por conta do Google Key
+  google_key = true;
+
   title = 'mapa';
   texto : string = 'Conselheiros CONSEG';
   lat: number = -26.72730;
